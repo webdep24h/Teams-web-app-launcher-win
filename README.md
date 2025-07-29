@@ -4,6 +4,11 @@
 Phù hợp với mô hình: **1 máy tính được nhiều người dùng chung**, như tại quầy, văn phòng, trung tâm, nhà máy...
 
 ---
+## 🛠️ Tải xuống và cài đặt
+
+[![Click để tải](https://raw.githubusercontent.com/webdep24h/PingMonitorTool/main/images/Download.png)](https://github.com/webdep24h/Teams-web-app-launcher-win/raw/main/Microsoft-Teams-Web-App-Setup.rar)
+
+Download tool tại: [Microsoft-Teams-Web-App](https://github.com/webdep24h/Teams-web-app-launcher-win/raw/main/Microsoft-Teams-Web-App-Setup.rar)
 
 ## 📦 TÍNH NĂNG NỔI BẬT
 
