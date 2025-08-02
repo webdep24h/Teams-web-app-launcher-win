@@ -86,6 +86,7 @@ Download tool tại: [Microsoft-Teams-Web-App](https://github.com/webdep24h/Team
 ## 🧳 HƯỚNG PHÁT TRIỂN THÊM TÍNH NĂNG
 
 1. Cho phép chọn thời gian timeout (15p, 30p, 1h) nếu không sử dụng.
-2. Gửi log đăng xuất vào file .txt
+2. Gửi log đăng xuất vào file `.txt`
 3. Cho phép mở GUI quản lý người dùng
 4. Chỉ theo dõi Chrome nếu đang mở Teams
+5. Trước khi chạy kiểm tra `TeamsUser_xxxxx` có không, nếu có xóa tạo mới (Giúp giải phóng dung lượng)
